@@ -20,7 +20,7 @@ You can refine the count by cleaning the string prior to splitting or validating
 End the program.
 
 ## PROGRAM:
-
+```
 Developed by:E.PRIYADHARSHINI.E
 Register Number:23012593
 num=0
@@ -30,7 +30,7 @@ with open("sample.txt",'r') as f:
         for word in words:
         num+=len(word)
 print("The num of words in the text file is:",num)
-
+```
 
 ### OUTPUT:
 
